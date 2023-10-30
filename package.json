@@ -2,9 +2,9 @@
   "name": "stremio-personalization",
   "version": "1.0.0",
   "description": "Personalize your Stremio Experience",
-  "main": "index.js",
+  "main": "src/index.js",  // Update the path to your entry file within the src directory
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js",  // Update the path to your entry file within the src directory
   },
   "dependencies": {
     "express": "^4.17.1",
