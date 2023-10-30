@@ -1,0 +1,16 @@
+{
+  "name": "stremio-personalization",
+  "version": "1.0.0",
+  "description": "Personalize your Stremio Experience",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.3.1"
+    // You may need additional dependencies, depending on your setup and requirements
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
